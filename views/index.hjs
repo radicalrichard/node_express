@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <h1>{{ title }} Startup</h1>
+    <p>Let's make the best thing ever.</p>
+
+    <script src="./public/javascripts/app.js" type="text/javascript"></script>
+  </body>
+</html>
